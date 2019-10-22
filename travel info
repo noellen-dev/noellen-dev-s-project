@@ -1,0 +1,57 @@
+# noellen-dev-s-project
+<!DOCTYPE html>
+        <html>
+        
+            <head>
+                <meta charset="utf-8">
+               
+            </head>
+            <style> .travel {
+                background-color: rgb(31, 217, 208);
+            }
+                 .falls {
+                background-color: rgb(255, 255, 0);
+            }
+            
+            .lava{
+                background-color:rgb(69, 255, 13);
+            }
+            p{
+                color:rgb(227, 13, 13);
+            }
+            </style>
+            <body>
+           
+                <h1>Travel to ....</h1>
+                <h1>hawaii</h1>
+                
+        <p class ="travel">
+        The beaches of hawaii are very cheerful<br>           and the people are very friendly.
+            
+        </p>
+         <img src = "https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width="573">
+         
+         
+        <p class = "lava">
+        The island has a huge volcanoe<br>
+        The hawaiians are<strong> <em>superstitious</em> about putting sticks into the lava<br> because they believe that you will anger evil spirits<br> and they will curse the island .</strong>            
+                    
+                </p>
+               
+                <img src = "https://www.kasandbox.org/programming-images/landscapes/lava.png" width="573">
+                
+                <h2>Niagara falls</h2>
+                
+              
+                
+     <p 
+     class="falls">The Niagara falls are famous waterfalls<br>
+         and it is actually lake Ontario flowing into lake Erie<br>
+         It keeps the water of lake Erie fresh<br>
+         it form a part of the american-canadian border.<br>
+		 also known as the horseshoe falls
+         
+     </p>
+       <img src = "https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png"width="573">
+            </body>
+        </html>
